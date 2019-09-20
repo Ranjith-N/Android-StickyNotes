@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyStickyNotes</string>
+    <string name="title_add">Add</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_share">Share</string>
+    <string name="notes_hint">Add Notes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="title_update">Update</string>
+
+</resources>
